@@ -1,1 +1,2 @@
 print('ааа')
+print('bbb')
